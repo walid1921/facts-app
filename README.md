@@ -1,3 +1,7 @@
+# factsapp project
+
+Today I learned application (adding facts)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
